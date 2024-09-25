@@ -1,0 +1,33 @@
+#one {
+    font: 13px/20px "Times New Roman";
+
+}
+#two {
+    font:bold 40px Arias;
+    color: red;
+    width: 300px;
+}
+#three {
+    font: bold italic 40px/60px Arial;
+    text-indent: 50px;
+}
+#text {
+    text-indent: 50px;
+	text-align: justify;
+	width: 400px;
+}
+#under {
+    text-decoration: underline;
+}
+#over {
+    text-decoration: overline;
+    color: red;
+}
+#through {
+    text-decoration: line-through;
+    color: green;
+}
+#link {
+    text-decoration: none;
+    color: red;
+}

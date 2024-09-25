@@ -1,0 +1,18 @@
+#ho, #ht, #hd {
+    text-align: center;
+}
+#hd {
+    color: blue;
+}
+#ht {
+    font-size: 16px;
+    color: red;
+}
+h1, h2, h3 {
+    text-align: center;
+    color: red;
+}
+h3 {
+    font-size: 16px;
+
+}

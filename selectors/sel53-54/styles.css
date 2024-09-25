@@ -1,0 +1,11 @@
+.t53_1 { 
+    ul i{
+    color: red;}
+    p i{
+    color: green;}}
+.t53_2 { 
+    p b i{
+    color: red;}}
+.t54 { 
+    li > b{
+     color: red;}}

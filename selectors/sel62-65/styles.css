@@ -1,0 +1,49 @@
+p.bbb {
+	color: red;
+}
+p .bb {
+	color: red;
+}
+.eee p.vv {
+	color: red;
+}
+.aaa p .vvv {
+	color: red;
+}
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+.big {
+	font-size: 30px;
+}
+.red {
+	color: red;
+}
+.arial {
+	font-family: Arial;
+}
+#elem1 {
+    color: red;
+    }
+#elem2 {
+    color: green;
+    }
+#elem3 {
+    color: blue;
+}
+#block {
+    color: rgb(245, 110, 132);
+    font-family: Arial;}
+.text {
+    color:blueviolet;
+    font-size: 30px;
+}

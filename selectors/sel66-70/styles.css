@@ -1,0 +1,76 @@
+#elem h2 {
+    color: rgb(237, 33, 118);
+    font: italic 20px Arial;
+} 
+#elem1 .text{
+    color: red;
+    font-size: 30px;
+}
+#elem2 p.text1{
+    font-size: 30px;
+    color: red;
+}
+#elem3 li.text2{
+    color: red;
+    font-size: 30px;
+}
+.eee.zzz.ccc {
+	font-style: italic;
+}
+.bbb.zzz {
+	color: red;
+}
+h2.bbb.zzz {
+	color: red;
+}
+#elem.aaa {
+	color: green;
+}
+#elem5.aaa.ccc {
+	color: red;
+}
+h2#elem6.sss {
+	color: red;
+}
+h2.ppp {
+	color: red;
+}
+h2 .ddd {
+	color: red;
+}
+.www.eee {
+	color: red;
+}
+.qqq .rrr {
+	color: red;
+}
+.ttt.yyy.uuu {
+	color: red;
+}
+.iii .ooo.jjj {
+	color: red;
+}
+.bb.zz .xx {
+	color: red;
+}
+.b .z .x {
+	color: red;
+}
+#elemen.bbbb {
+	color: red;
+}
+#eleme .aa {
+	color: red;
+}
+#block1 h1, #block1 h2{
+	text-align: center;
+}
+#block2 h1, #block2 h2{
+	text-align: center;
+}
+#block2 h1{
+	font-size: 30px;
+}
+#block2 h2{
+	font-size: 20px;
+}

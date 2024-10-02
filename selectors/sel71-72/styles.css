@@ -1,0 +1,76 @@
+#block1 h1, #block1 h2, #block1 h3 {
+	text-align: center;
+}
+#block1 h2 {
+	color: blue;
+}
+#block1 h3 {
+	font-size: 16px;
+	color: red;
+}
+#block2 h1.eee, #block2 h2.zzz {
+	text-align: center;
+}
+#block2 h1.eee {
+	font-size: 30px;
+}
+#block2 h2.zzz {
+	font-size: 20px;
+}
+.xxx .kkk, .eee3 h2.zzz3, #eee3 h2{
+	text-align: center;
+}
+.eee4 h2.zzz4, .xxx4{
+	text-align: center;
+}
+.task1 p{
+    color: red;
+}
+.t2 h2{
+    color: red;
+}
+#block p{
+    color: green;
+}
+#block3 h2{
+    color:red;
+}
+.bb{
+    color: red;
+}
+#block5 .aaa{
+    color: red;
+}
+p.bbb1{
+    color: red;
+}
+h2.bbb2{
+    color: red;
+}
+#block8 p.bbb3{
+    color: red;
+}
+.bbb4, .xx{
+    color: red;
+}
+p.bbb5, h2.xxx5{
+    color: red;
+}
+#block10 p.bbb6, #block10 p.xxx6{
+    color: red;
+}
+.fff{
+    color: red;
+}
+.fff1 p{
+    color:red;
+}
+p.fff2{
+    color: red;
+}
+.fff3 .bbb8{
+    color: crimson;
+}
+.fff4 h2.bbb9{
+    color: red;
+}

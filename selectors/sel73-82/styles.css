@@ -1,0 +1,66 @@
+.t1 {
+    font-size: 20px;
+}
+.t1 {
+    font-size: 30px;
+}
+.t2 {
+	font-size: 20px;
+	color: blue;
+}
+.t2 {
+	font-style: italic;
+	color: red;
+}
+#elem + li {
+	color: red;
+}
+.elem1 + li {
+	color: red;
+}
+#elem2 ~ li {
+	color: red;
+}
+main * p {
+	color: red;
+}
+[title] {
+    color: red; 
+}
+p[title1] {
+    color: red;
+}
+p[title2="hello"] {
+    color:red;
+}
+a[href^="http://"] {
+    color:red;
+}
+a[href$=".html"] {
+    color: red;
+}
+p[title3*="hello"] {
+   color: red;
+}
+p[class^="top-"] {
+    color: red;
+}
+.t3:link {
+    color: blue; 
+    text-decoration: none; 
+  }
+  
+.t3:visited {
+    color: green; 
+    text-decoration: none;
+  }
+  
+.t3:hover {
+    color: red; 
+    text-decoration: none; 
+  }
+  
+.t3:active {
+    color: black;
+    text-decoration: none; 
+  }

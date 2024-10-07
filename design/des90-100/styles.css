@@ -1,0 +1,93 @@
+#t901 {
+    background-color: orange;
+    width: 200px;
+	height: 200px;
+}
+#t902 {
+    background-color: #4dee99;
+    width: 200px;
+	height: 200px;
+    text-align: center;
+    color:white;
+    font-size: 30px;
+}
+#t92 {
+    width: 300px;
+    height: 200px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: blue;
+}
+#t93 {
+    border-width: 5px;
+	border-style: dotted;
+	border-color: red;
+	width: 300px;
+	height: 200px;
+}
+#t94 {
+    border-width: 2px;
+	border-style: dashed;
+	border-color: rgb(255, 170, 0);
+	width: 300px;
+	height: 200px;
+}
+#t96 {
+    border-width: 10px;
+	border-style: double;
+	border-color: blue;
+	width: 300px;
+	height: 200px;
+}
+#t971 {
+    border: 1px solid red;
+    width:300px;
+    height: 200px;   
+}
+
+#t972 {
+    border: 2px dotted blue;
+    width:300px;
+    height: 200px;
+}
+
+#t973 {
+    border: 3px dashed green;
+    width:300px;
+    height: 200px;
+}
+
+#t974 {
+    border: 5px double orange;
+    width:300px;
+    height: 200px;
+}
+#t981 {
+    width: 300px;
+    height: 200px;
+    border-top: 3px solid blue;
+    border-right: 3px solid green;
+    border-left: 3px solid orange;
+    border-bottom: 3px solid red;
+}
+
+#t982 {
+    width: 300px;
+    height: 200px;
+    border-top: 1px solid blue;
+    border-right: 3px dotted green;
+    border-bottom: 1px solid blue;
+    border-left: 3px solid red;
+}
+#t99 {
+    height:200px;
+    width: 200px;
+    border: 1px solid green;
+    border-radius: 30px;
+}
+#t100 {
+    border-radius: 30px;
+    height:200px;
+    width: 200px;
+    background-color: #44e18e ;
+}

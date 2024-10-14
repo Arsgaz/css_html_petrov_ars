@@ -1,0 +1,18 @@
+#t112 ul {
+	list-style-type: square;
+}
+#t113 ul {
+	list-style-type: circle;
+}
+#t115 ul {
+	list-style-type: none;
+}
+#t119 ol {
+	list-style-type: lower-alpha;
+}
+#t120 ol {
+	list-style-type: upper-alpha;
+}
+#t121 ol {
+	list-style-type: lower-greek;
+}
